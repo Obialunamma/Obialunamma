@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Obialunamma, Chinazom Jennifer Okoli.
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning R programming
-- 💞️ I’m looking to collaborate on any resource on Data Analytics
+- 💞️ I’m looking to collaborate on any resources, connections and Job opportunities on Data Analytics
 - 📫 How to reach me chinazom.jennifer@gmail.com
 
 <!---
